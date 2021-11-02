@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --color-primary: #21223e;
+  --color-primary-light: #3c3f73;
+  --color-success: #0c8d87;
+  --color-error: #c01332;
+  --color-light: #ffffff;
+  --base-color: #4B4F93;
+}
